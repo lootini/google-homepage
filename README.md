@@ -1,0 +1,1 @@
+This project we gonna create a google homepage using html and css from scratch i'm not trying to be perfocionist i'm just trying to improve my skills and doing it for fun
